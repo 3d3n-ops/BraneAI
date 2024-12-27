@@ -9,3 +9,6 @@ With BraneAI, hospitals can run MRI scans of patients through the trained model 
 Project was inspired by Headstarter AI.
 
 Currently under development, will follow up with more updates.
+
+
+Kaggle Dataset Download: ! kaggle datasets download -d masoudnickparvar/brain-tumor-mri-dataset --unzip
